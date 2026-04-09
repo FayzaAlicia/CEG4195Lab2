@@ -8,3 +8,6 @@ data/raw/
 data/processed/
 external/
 artifacts/model_best.pth
+
+_pdfcheck/
+_pdfcheck2/
