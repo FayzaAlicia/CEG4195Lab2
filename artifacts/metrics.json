@@ -1,0 +1,10 @@
+{
+  "best_val_iou": 0.4985359548386651,
+  "test_loss": 0.666846079485757,
+  "test_iou": 0.5395995871256217,
+  "test_dice": 0.69893418859322,
+  "epochs": 20,
+  "batch_size": 4,
+  "image_size": 512,
+  "learning_rate": 0.001
+}
